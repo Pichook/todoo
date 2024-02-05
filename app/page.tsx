@@ -15,7 +15,7 @@ export default function Home() {
       <div className='flex h-16 bg-white items-center '>
         {/* <Image src={'/menu.png'} width={15} height={20} alt={'menu'} /> */}
         <div className='flex px-4 justify-start'>
-          <Button onClick={() => router.push("/page1")}>Private</Button>
+          <Button onClick={() => router.push("/admin")}>Private</Button>
         </div>
 
         <div className='flex px-4 ml-auto'>
