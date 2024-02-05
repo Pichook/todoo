@@ -1,0 +1,3 @@
+[submodule "mcs-plugin"]
+	path = mcs-plugin
+	url = https://github.com/ritheasen/mcs-plugin.git
